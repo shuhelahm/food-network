@@ -146,7 +146,7 @@ a{
 
 .recipe-section{
     margin-bottom: 100px;
-    background-image: url(img/dream-bg.png);
+    background-image: url(img/recipe-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -186,7 +186,7 @@ a{
 
 .more-recipes-section{
     margin-bottom: 70px;
-    background-image: url(img/exp-bg.png);
+    background-image: url(img/more-recipes-bg.png);
     background-repeat: no-repeat;
 }
 
