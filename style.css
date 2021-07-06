@@ -43,16 +43,12 @@ a{
     padding: 42px 0 0 100px;
 }
 
-.input-section{
-    padding-left: 30px;
-}
-
-.header-input{
+.header-input {
     padding: 6px 15px;
     border: none;
     border-radius: 10px;
     font-size: 20px;
-    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .header-btn{
