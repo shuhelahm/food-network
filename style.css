@@ -197,9 +197,10 @@ a{
 .column-1,.column-2,.column-3{
     width: 23.3%;
     margin-right: 7%;
-    border: 1px solid black;
-    border: none;
     box-shadow: 2px 2px 2px 2px #000;
+    border-left: 5px solid;
+    border-image: linear-gradient(#44B4FC, #10e95c);
+    border-image-slice: 1;
 }
 
 .column-2{
