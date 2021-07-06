@@ -146,6 +146,9 @@ a{
 
 .recipe-section{
     margin-bottom: 100px;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .recipe-top{
@@ -183,6 +186,8 @@ a{
 
 .more-recipes-section{
     margin-bottom: 70px;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
 }
 
 .more-recipes-section h4{
@@ -218,7 +223,7 @@ a{
 
 .team-section {
     background-color: #EBF8FF;
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .team-section h1{
