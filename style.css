@@ -189,45 +189,29 @@ a{
     font-size: 28px;
 }
 
-.column-1{
+.more-recipes-content{
+    padding-left: 200px;
+}
+
+.column-1,.column-2,.column-3{
     width: 23.3%;
     margin-right: 7%;
     border: 1px solid black;
-}
-
-.column-1 h6{
-    font-size: 18px;
-    text-align: center;
+    border: none;
+    box-shadow: 2px 2px 2px 2px #000;
 }
 
 .column-2{
-    width: 23.3%;
     margin-right: 8%;
-    border: 1px solid black;
 }
 
-.column-2 h6{
+.column-1 h6,.column-2 h6,.column-3 h6{
     font-size: 18px;
     text-align: center;
 }
 
 .column-2 ul{
     list-style-type: none;
-}
-
-.column-3{
-    width: 23.3%;
-    margin-right: 8%;
-    border: 1px solid black;
-}
-
-.column-3 h6{
-    font-size: 18px;
-    text-align: center;
-}
-
-.more-recipes-content{
-    padding-left: 200px;
 }
 
 .team-sectiion {
