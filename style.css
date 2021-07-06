@@ -12,7 +12,7 @@ a{
 }
 
 .header-section{
-    background-color: #10e95c;
+    background-color: #757776;
 }
 
 .header-left{
@@ -70,7 +70,7 @@ a{
 }
 
 .banner-section{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .banner-section-left{
@@ -110,7 +110,7 @@ a{
     background-image: url(img/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     padding: 50px 0;
 }
 
@@ -142,7 +142,7 @@ a{
 }
 
 .recipe-section{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .recipe-top{
@@ -161,12 +161,15 @@ a{
     margin-bottom: 50px;
 }
 
+.recipe-bottom{
+    padding-left: 200px;
+}
+
 .same-recipe-bottom{
     width: 23.3%;
     border-radius: 10px;
     box-shadow: 3px 3px 8px 5px rgb(98, 93, 93);
     margin-right: 5%;
-    margin-left: 5%;
     padding: 10px;
 }
 
@@ -177,7 +180,8 @@ a{
 }
 
 .team-sectiion {
-    margin-bottom: 50px;
+    padding: 100px 0 100px 70px;
+    background-color: #EBF8FF;
 }
 
 .team-sectiion h1{
@@ -187,9 +191,14 @@ a{
 }
 
 .same-team-content{
-    width: 13%;
+    border: 1px solid #44C2FD;
+    width: 20%;
     margin-right: 5%;
-    margin-left: 5%;
+    padding: 5px;
+}
+
+.same-team-content img{
+    width: 100%;
 }
 
 .same-team-content h4{
