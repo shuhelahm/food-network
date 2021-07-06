@@ -180,6 +180,56 @@ a{
     border-radius: 10px;
 }
 
+.more-recipes-section{
+    margin-bottom: 70px;
+}
+
+.more-recipes-section h4{
+    text-align: center;
+    font-size: 28px;
+}
+
+.column-1{
+    width: 23.3%;
+    margin-right: 7%;
+    border: 1px solid black;
+}
+
+.column-1 h6{
+    font-size: 18px;
+    text-align: center;
+}
+
+.column-2{
+    width: 23.3%;
+    margin-right: 8%;
+    border: 1px solid black;
+}
+
+.column-2 h6{
+    font-size: 18px;
+    text-align: center;
+}
+
+.column-2 ul{
+    list-style-type: none;
+}
+
+.column-3{
+    width: 23.3%;
+    margin-right: 8%;
+    border: 1px solid black;
+}
+
+.column-3 h6{
+    font-size: 18px;
+    text-align: center;
+}
+
+.more-recipes-content{
+    padding-left: 200px;
+}
+
 .team-sectiion {
     padding: 100px 0 100px 70px;
     background-color: #EBF8FF;
